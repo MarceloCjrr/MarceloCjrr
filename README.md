@@ -6,8 +6,8 @@ Me chamo Marcelo Junior, tenho 20 anos e atualmente moro em São Paulo. Estou cu
 
 <div>
     <a href="https://github.com/MarceloCjrr">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarceloCjrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCjrr&layout=compact&langs_count=16&theme=dark">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarceloCjrr&show_icons=true&theme=radical">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCjrr&layout=compact&langs_count=16&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,4 +24,3 @@ Me chamo Marcelo Junior, tenho 20 anos e atualmente moro em São Paulo. Estou cu
     <a href = "mailto:marcelo.cristiano.jr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcelo-junior-analista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
