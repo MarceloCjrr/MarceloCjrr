@@ -6,8 +6,8 @@ Me chamo Marcelo Junior, tenho 20 anos e atualmente moro em São Paulo. Estou cu
 
 <div>
     <a href="https://github.com/MarceloCjrr">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarceloCjrr&show_icons=true&theme=radical">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCjrr&layout=compact&langs_count=16&theme=radical">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarceloCjrr&show_icons=true&theme=radical">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloCjrr&layout=compact&langs_count=16&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
